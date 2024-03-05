@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "957489845864",
+    "project_id": "self-host-devkotes",
+    "storage_bucket": "self-host-devkotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957489845864:android:eb132c0a56459c565e0ddd",
+        "android_client_info": {
+          "package_name": "com.devkotes.self_host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957489845864-i7jp3dgeqdofi9f4mq3f9al55ocqlh6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznQlfT6dMyviYEWcPqpL6u3ZarT6077Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957489845864-i7jp3dgeqdofi9f4mq3f9al55ocqlh6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957489845864-vrjaa2o2rcvvoceog70p66ri84ji4jg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devkotes.selfHost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
